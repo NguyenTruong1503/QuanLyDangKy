@@ -1,0 +1,124 @@
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\DoAn\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\bin\Debug\QuanLyDangKyMonHoc.exe.config
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\DoAn\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\bin\Debug\QuanLyDangKyMonHoc.exe
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\DoAn\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\bin\Debug\QuanLyDangKyMonHoc.pdb
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\DoAn\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.AssemblyReference.cache
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\DoAn\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.SuggestedBindingRedirects.cache
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\DoAn\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_DangNhap.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\DoAn\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_GiangVien.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\DoAn\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_QuanTri.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\DoAn\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_SinhVien.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\DoAn\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.Properties.Resources.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\DoAn\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.GenerateResource.cache
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\DoAn\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.CoreCompileInputs.cache
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\DoAn\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.exe
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\DoAn\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.pdb
+C:\Users\admin\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_DangNhap.resources
+C:\Users\admin\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_GiangVien.resources
+C:\Users\admin\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_QuanTri.resources
+C:\Users\admin\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_SinhVien.resources
+C:\Users\admin\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.exe
+C:\Users\admin\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.pdb
+C:\Users\admin\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.Properties.Resources.resources
+C:\Users\admin\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\bin\Debug\QuanLyDangKyMonHoc.exe.config
+C:\Users\admin\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\bin\Debug\QuanLyDangKyMonHoc.exe
+C:\Users\admin\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\bin\Debug\QuanLyDangKyMonHoc.pdb
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\bin\Debug\QuanLyDangKyMonHoc.exe.config
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\bin\Debug\QuanLyDangKyMonHoc.exe
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\bin\Debug\QuanLyDangKyMonHoc.pdb
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.AssemblyReference.cache
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.SuggestedBindingRedirects.cache
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_DangNhap.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_GiangVien.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_QuanTri.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_SinhVien.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.Properties.Resources.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.GenerateResource.cache
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.CoreCompileInputs.cache
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.exe
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.pdb
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_PhanCongGV.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_SinhVienQT.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThoiKhoaBieuGV.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThongTinGV.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_GiangVienQT.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThongBaoQT.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_GuiThongBao.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_HocPhan.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThongBao.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThongTinSV.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_DangKySV.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThemHocPhan.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThoiKhoaBieuSV.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_SuaHocPhan.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ChuongTrinhDaoTao.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_SuaCTDT.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThemCTDT.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\bin\Debug\QuanLyDangKyMonHoc.exe.config
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\bin\Debug\QuanLyDangKyMonHoc.exe
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\bin\Debug\QuanLyDangKyMonHoc.pdb
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.AssemblyReference.cache
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.SuggestedBindingRedirects.cache
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ChuongTrinhDaoTao.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_HocPhan.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_DangKySV.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_DangNhap.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_GiangVienQT.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_GuiThongBao.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_SuaCTDT.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_SuaHocPhan.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_PhanCongGV.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_SinhVienQT.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThemCTDT.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThemHocPhan.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThoiKhoaBieuGV.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThoiKhoaBieuSV.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThongBao.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThongBaoQT.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThongTinGV.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_GiangVien.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_QuanTri.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_SinhVien.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThongTinSV.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.Properties.Resources.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.GenerateResource.cache
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.CoreCompileInputs.cache
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.exe
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.pdb
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThemGVQT.resources
+D:\Thinh\NAM 3 HK1\He quan tri co so du lieu\Github\new\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_SuaGVQT.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\bin\Debug\QuanLyDangKyMonHoc.exe.config
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\bin\Debug\QuanLyDangKyMonHoc.exe
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\bin\Debug\QuanLyDangKyMonHoc.pdb
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.AssemblyReference.cache
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.SuggestedBindingRedirects.cache
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ChuongTrinhDaoTao.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_HocPhan.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_DangKySV.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_DangNhap.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_GiangVienQT.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_GuiThongBao.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_SuaCTDT.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_SuaGVQT.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_SuaHocPhan.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_PhanCongGV.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_SinhVienQT.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThemCTDT.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThemGVQT.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThemHocPhan.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThoiKhoaBieuGV.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThoiKhoaBieuSV.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThongBao.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThongBaoQT.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThongTinGV.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_GiangVien.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_QuanTri.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_SinhVien.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.F_ThongTinSV.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.Properties.Resources.resources
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.GenerateResource.cache
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.csproj.CoreCompileInputs.cache
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.exe
+C:\Users\21110\source\repos\QuanLyDangKyMonHoc\QuanLyDangKyMonHoc\obj\Debug\QuanLyDangKyMonHoc.pdb
